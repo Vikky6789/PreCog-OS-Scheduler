@@ -1,0 +1,12 @@
+# Binaries
+huge_sim
+mlfq_kernel
+scheduler_test
+scheduler_race
+
+# Python Environment
+venv/
+__pycache__/
+
+# OS Junk
+.DS_Store
